@@ -7,3 +7,6 @@
 - [chatmcp/mcp-directory](https://github.com/chatmcp/mcp-directory)
 - [awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers)
 - [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients)
+
+#### 开源
+- [mcp-playwright](https://github.com/executeautomation/mcp-playwright)
