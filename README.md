@@ -1,5 +1,6 @@
 #### 文章
 - [awesome MCP server 大全整理](https://juejin.cn/post/7480350360964530213)
+- [MCP简介：从浏览器截图的自动化说起](https://juejin.cn/post/7481861001189621800)
 
 #### 资源集合
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
