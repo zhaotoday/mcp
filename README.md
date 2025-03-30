@@ -19,3 +19,4 @@
 - [open-mcp-client](https://github.com/CopilotKit/open-mcp-client)
 - [cursor-talk-to-figma-mcp](https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp)
 - [mcp-get](https://github.com/michaellatman/mcp-get)
+- [browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp)
