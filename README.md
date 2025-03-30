@@ -16,3 +16,4 @@
 - [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk)
 - [mcp-playwright](https://github.com/executeautomation/mcp-playwright)
 - [fastmcp](https://github.com/punkpeye/fastmcp)
+- [open-mcp-client](https://github.com/CopilotKit/open-mcp-client)
