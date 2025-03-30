@@ -17,3 +17,4 @@
 - [mcp-playwright](https://github.com/executeautomation/mcp-playwright)
 - [fastmcp](https://github.com/punkpeye/fastmcp)
 - [open-mcp-client](https://github.com/CopilotKit/open-mcp-client)
+- [cursor-talk-to-figma-mcp](https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp)
