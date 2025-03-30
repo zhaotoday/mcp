@@ -18,3 +18,4 @@
 - [fastmcp](https://github.com/punkpeye/fastmcp)
 - [open-mcp-client](https://github.com/CopilotKit/open-mcp-client)
 - [cursor-talk-to-figma-mcp](https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp)
+- [mcp-get](https://github.com/michaellatman/mcp-get)
