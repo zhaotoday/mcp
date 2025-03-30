@@ -10,4 +10,5 @@
 - [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients)
 
 #### 开源
+- [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk)
 - [mcp-playwright](https://github.com/executeautomation/mcp-playwright)
