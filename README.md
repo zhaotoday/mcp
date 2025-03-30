@@ -1,3 +1,6 @@
+#### 网站
+- [MCP Servers](https://mcp.so/)
+
 #### 文章
 - [awesome MCP server 大全整理](https://juejin.cn/post/7480350360964530213)
 - [MCP简介：从浏览器截图的自动化说起](https://juejin.cn/post/7481861001189621800)
