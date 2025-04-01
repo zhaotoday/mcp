@@ -21,3 +21,4 @@
 - [mcp-get](https://github.com/michaellatman/mcp-get)
 - [browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp)
 - [vite-plugin-vue-mcp](https://github.com/webfansplz/vite-plugin-vue-mcp)
+- [nuxt-mcp](https://github.com/antfu/nuxt-mcp)
