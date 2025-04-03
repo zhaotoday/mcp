@@ -25,3 +25,4 @@
 - [vite-plugin-vue-mcp](https://github.com/webfansplz/vite-plugin-vue-mcp)
 - [nuxt-mcp](https://github.com/antfu/nuxt-mcp)
 - [markdownify-mcp](https://github.com/zcaceres/markdownify-mcp)
+- [ENScan_GO](https://github.com/wgpsec/ENScan_GO)
