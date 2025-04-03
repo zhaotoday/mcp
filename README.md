@@ -26,3 +26,4 @@
 - [nuxt-mcp](https://github.com/antfu/nuxt-mcp)
 - [markdownify-mcp](https://github.com/zcaceres/markdownify-mcp)
 - [ENScan_GO](https://github.com/wgpsec/ENScan_GO)
+- [chat-mcp](https://github.com/AI-QL/chat-mcp)
