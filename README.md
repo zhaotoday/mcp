@@ -9,7 +9,11 @@
 - [awesome MCP server 大全整理](https://juejin.cn/post/7480350360964530213)
 - [MCP简介：从浏览器截图的自动化说起](https://juejin.cn/post/7481861001189621800)
 
-#### 资源集合
+#### 视频
+- [MCP是啥？技术原理是什么？](https://www.bilibili.com/video/BV1AnQNYxEsy/)
+- [MCP核心设计分析与代码实践](https://www.bilibili.com/video/BV1RFZdYYEY6/)
+
+#### 资源
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
 - [awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers)
 - [chatmcp/mcp-directory](https://github.com/chatmcp/mcp-directory)
