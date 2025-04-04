@@ -2,6 +2,7 @@
 - [MCP Servers](https://mcp.so/)
 - [Awesome MCP Servers](https://mcplab.cc/zh)
 - [Open-Source MCP servers](https://glama.ai/mcp/servers)
+- [pulsemcp](https://www.pulsemcp.com/)
 
 #### 文章
 - [MCP 终极指南](https://guangzhengli.com/blog/zh/model-context-protocol)
