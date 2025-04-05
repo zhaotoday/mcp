@@ -4,6 +4,7 @@
 - [Open-Source MCP servers](https://glama.ai/mcp/servers)
 - [pulsemcp](https://www.pulsemcp.com/)
 - [composio](https://mcp.composio.dev/)
+- [smithery](https://smithery.ai/)
 
 #### 文章
 - [MCP 终极指南](https://guangzhengli.com/blog/zh/model-context-protocol)
