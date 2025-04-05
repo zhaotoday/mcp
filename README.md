@@ -16,6 +16,7 @@
 #### 视频
 - [MCP是啥？技术原理是什么？](https://www.bilibili.com/video/BV1AnQNYxEsy/)
 - [MCP核心设计分析与代码实践](https://www.bilibili.com/video/BV1RFZdYYEY6/)
+- [AI Agent与MCP框架入门深度解析](https://www.bilibili.com/video/BV1CQ91YVEx5/)
 
 #### 资源
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
