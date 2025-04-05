@@ -11,6 +11,7 @@
 - [MCP 终极指南](https://guangzhengli.com/blog/zh/model-context-protocol)
 - [awesome MCP server 大全整理](https://juejin.cn/post/7480350360964530213)
 - [MCP简介：从浏览器截图的自动化说起](https://juejin.cn/post/7481861001189621800)
+- [MCP入门与实战](https://docs.google.com/presentation/d/1s7UBBNEXrjTpl0maBZJKqEBnq2mJ9sKYpkTntqK-kBo/edit#slide=id.p)
 
 #### 视频
 - [MCP是啥？技术原理是什么？](https://www.bilibili.com/video/BV1AnQNYxEsy/)
