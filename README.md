@@ -37,3 +37,4 @@
 - [ENScan_GO](https://github.com/wgpsec/ENScan_GO)
 - [chat-mcp](https://github.com/AI-QL/chat-mcp)
 - [mcp-installer](https://github.com/anaisbetts/mcp-installer)
+- [magic-mcp](https://github.com/21st-dev/magic-mcp)
