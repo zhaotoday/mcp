@@ -12,6 +12,7 @@
 - [awesome MCP server 大全整理](https://juejin.cn/post/7480350360964530213)
 - [MCP简介：从浏览器截图的自动化说起](https://juejin.cn/post/7481861001189621800)
 - [MCP入门与实战](https://docs.google.com/presentation/d/1s7UBBNEXrjTpl0maBZJKqEBnq2mJ9sKYpkTntqK-kBo/edit#slide=id.p)
+- [颠覆MCP！Open WebUI新技术mcpo横空出世！支持ollama！轻松支持各种MCP Server！Cline+Claude3.7轻松开发论文检索](https://juejin.cn/post/7488706795621859366)
 
 #### 视频
 - [MCP是啥？技术原理是什么？](https://www.bilibili.com/video/BV1AnQNYxEsy/)
