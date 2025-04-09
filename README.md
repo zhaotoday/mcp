@@ -27,6 +27,7 @@
 - [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients)
 
 #### 开源
+- [mcp-get](https://github.com/michaellatman/mcp-get)
 - [BrowserMCP](https://github.com/BrowserMCP/mcp)
 - [smithery-ai/typescript-sdk](https://github.com/smithery-ai/typescript-sdk)
 - [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk)
