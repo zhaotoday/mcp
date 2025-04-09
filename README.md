@@ -27,6 +27,7 @@
 - [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients)
 
 #### 开源
+- [fetcher-mcp](https://github.com/jae-jae/fetcher-mcp)
 - [markdownify-mcp](https://github.com/zcaceres/markdownify-mcp)
 - [mcp-server-browserbase](https://github.com/browserbase/mcp-server-browserbase)
 - [mcp-get](https://github.com/michaellatman/mcp-get)
