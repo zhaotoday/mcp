@@ -28,6 +28,7 @@
 - [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients)
 
 #### 开源
+- [mastra](https://github.com/mastra-ai/mastra)
 - [mcpo](https://github.com/open-webui/mcpo)
 - [mcp-framework](https://github.com/QuantGeekDev/mcp-framework)
 - [mobile-mcp](https://github.com/mobile-next/mobile-mcp)
