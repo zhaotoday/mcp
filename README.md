@@ -8,6 +8,7 @@
 - [smithery](https://smithery.ai/)
 
 #### 文章
+- [分享 | 我遇到的质量最高的MCP服务器汇总](https://juejin.cn/post/7489479817647587354)
 - [MCP 终极指南](https://guangzhengli.com/blog/zh/model-context-protocol)
 - [awesome MCP server 大全整理](https://juejin.cn/post/7480350360964530213)
 - [MCP简介：从浏览器截图的自动化说起](https://juejin.cn/post/7481861001189621800)
