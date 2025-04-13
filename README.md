@@ -33,6 +33,8 @@
 - [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients)
 
 #### 开源
+- [Dive](https://github.com/OpenAgentPlatform/Dive)
+- [supergateway](https://github.com/supercorp-ai/supergateway)
 - [agentic](https://github.com/transitive-bullshit/agentic)
 - [mastra](https://github.com/mastra-ai/mastra)
 - [mcpo](https://github.com/open-webui/mcpo)
