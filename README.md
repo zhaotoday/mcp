@@ -7,6 +7,9 @@
 - [composio](https://mcp.composio.dev/)
 - [smithery](https://smithery.ai/)
 
+#### 产品
+- [browsermcp](https://browsermcp.io/)
+
 #### 文章
 - [构建智能天气助手：基于大模型API与工具函数的调用实践](https://juejin.cn/post/7486369696736903209)
 - [Cursor MCP使用教程：完整配置指南与推荐Server【2025最新实测】](https://juejin.cn/post/7488168037675139082)
