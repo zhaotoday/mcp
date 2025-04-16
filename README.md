@@ -33,6 +33,7 @@
 - [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients)
 
 #### 开源
+- [dify-mcp-client](https://github.com/3dify-project/dify-mcp-client)
 - [chatlog](https://github.com/sjzar/chatlog)
 - [mcp-server-code-runner](https://github.com/formulahendry/mcp-server-code-runner)
 - [Dive](https://github.com/OpenAgentPlatform/Dive)
