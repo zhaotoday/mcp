@@ -26,6 +26,7 @@
 - [AI Agent与MCP框架入门深度解析](https://www.bilibili.com/video/BV1CQ91YVEx5/)
 
 #### 资源
+- [Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH)
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
 - [awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers)
 - [chatmcp/mcp-directory](https://github.com/chatmcp/mcp-directory)
