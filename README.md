@@ -35,6 +35,7 @@
 - [chatmcp/mcp-directory](https://github.com/chatmcp/mcp-directory)
 - [awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers)
 - [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients)
+- [MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
 
 #### 开源
 - [baidu-maps/mcp](https://github.com/baidu-maps/mcp)
