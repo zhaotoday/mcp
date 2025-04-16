@@ -33,6 +33,7 @@
 - [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients)
 
 #### 开源
+- [baidu-maps/mcp](https://github.com/baidu-maps/mcp)
 - [dify-mcp-client](https://github.com/3dify-project/dify-mcp-client)
 - [chatlog](https://github.com/sjzar/chatlog)
 - [mcp-server-code-runner](https://github.com/formulahendry/mcp-server-code-runner)
