@@ -6,6 +6,7 @@
 - [pulsemcp](https://www.pulsemcp.com/)
 - [composio](https://mcp.composio.dev/)
 - [smithery](https://smithery.ai/)
+- [MCP 广场](https://www.modelscope.cn/mcp)
 
 #### 产品
 - [browsermcp](https://browsermcp.io/)
