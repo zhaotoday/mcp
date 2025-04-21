@@ -40,6 +40,7 @@
 - [MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
 
 #### 开源
+- [@alipay/mcp-server-alipay](https://opendocs.alipay.com/open/0go80l)
 - [activepieces](https://github.com/activepieces/activepieces)
 - [dify-mcp-server](https://github.com/YanxingLiu/dify-mcp-server)
 - [dify-mcp-client](https://github.com/3dify-project/dify-mcp-client)
