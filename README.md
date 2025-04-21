@@ -40,6 +40,7 @@
 - [MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
 
 #### 开源
+- [dify-mcp-client](https://github.com/3dify-project/dify-mcp-client)
 - [mcp-proxy](https://github.com/punkpeye/mcp-proxy)
 - [solon-ai](https://github.com/opensolon/solon-ai)
 - [baidu-maps/mcp](https://github.com/baidu-maps/mcp)
