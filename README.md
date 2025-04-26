@@ -12,6 +12,7 @@
 - [browsermcp](https://browsermcp.io/)
 
 #### 文章
+- [2025最全Browser Use MCP指南：AI控制浏览器的开源解决方案与API接入全攻略](https://juejin.cn/post/7490391697084547099)
 - [Cursor Figma MCP 互联网最全安装指南](https://juejin.cn/post/7491508231665614889)
 - [构建智能天气助手：基于大模型API与工具函数的调用实践](https://juejin.cn/post/7486369696736903209)
 - [Cursor MCP使用教程：完整配置指南与推荐Server【2025最新实测】](https://juejin.cn/post/7488168037675139082)
