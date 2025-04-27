@@ -12,6 +12,7 @@
 - [browsermcp](https://browsermcp.io/)
 
 #### 文章
+- [从零开发 MCP 服务：原理到实战（实现飞书文档 MCP）](https://juejin.cn/post/7490391876743921704)
 - [MCP 很火，来看看我们直接给后台管理系统上一个 MCP？](https://juejin.cn/post/7481491253499969575)
 - [2025最全Browser Use MCP指南：AI控制浏览器的开源解决方案与API接入全攻略](https://juejin.cn/post/7490391697084547099)
 - [Cursor Figma MCP 互联网最全安装指南](https://juejin.cn/post/7491508231665614889)
