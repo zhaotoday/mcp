@@ -12,6 +12,7 @@
 - [browsermcp](https://browsermcp.io/)
 
 #### 文章
+- [AI重要发展趋势：MCP 技术科普](https://juejin.cn/post/7477871457730625545)
 - [全面支持MCP协议，开启便捷连接之旅，MaxKB知识库问答系统v1.10.3 LTS版本发布](https://juejin.cn/post/7490445394468945932)
 - [从零开发 MCP 服务：原理到实战（实现飞书文档 MCP）](https://juejin.cn/post/7490391876743921704)
 - [MCP 很火，来看看我们直接给后台管理系统上一个 MCP？](https://juejin.cn/post/7481491253499969575)
