@@ -7,6 +7,7 @@
 - [composio](https://mcp.composio.dev/)
 - [smithery](https://smithery.ai/)
 - [MCP 广场](https://www.modelscope.cn/mcp)
+- [高德地图 MCP](https://lbs.amap.com/api/mcp-server/summary)
 
 #### 产品
 - [browsermcp](https://browsermcp.io/)
