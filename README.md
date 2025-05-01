@@ -7,7 +7,6 @@
 - [composio](https://mcp.composio.dev/)
 - [smithery](https://smithery.ai/)
 - [MCP 广场](https://www.modelscope.cn/mcp)
-- [高德地图 MCP](https://lbs.amap.com/api/mcp-server/summary)
 
 #### 产品
 - [browsermcp](https://browsermcp.io/)
@@ -47,6 +46,8 @@
 - [MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
 
 #### 开源
+- [高德地图 MCP Server](https://lbs.amap.com/api/mcp-server/summary)
+- [百度地图 MCP Server](https://github.com/baidu-maps/mcp)
 - [@alipay/mcp-server-alipay](https://opendocs.alipay.com/open/0go80l)
 - [activepieces](https://github.com/activepieces/activepieces)
 - [dify-mcp-server](https://github.com/YanxingLiu/dify-mcp-server)
