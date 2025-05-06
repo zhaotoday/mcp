@@ -12,6 +12,7 @@
 - [browsermcp](https://browsermcp.io/)
 
 #### 文章
+- [全网最细，一文带你弄懂 MCP 的核心原理！](https://juejin.cn/post/7493455615244959794)
 - [浅谈 MCP Inspector：调试与测试 MCP 服务器的利器](https://juejin.cn/post/7483409317565153290)
 - [一文带你入门 MCP（模型上下文协议）](https://juejin.cn/post/7463005171515621417)
 - [AI重要发展趋势：MCP 技术科普](https://juejin.cn/post/7477871457730625545)
