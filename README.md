@@ -12,6 +12,7 @@
 - [browsermcp](https://browsermcp.io/)
 
 #### 文章
+- [要给大家泼盆冷水了，使用 MCP 绝对不容忽视的一个问题！](https://juejin.cn/post/7498305424639721484)
 - [MCP爆火！了解这些资源玩转MCP](https://juejin.cn/post/7499529550586544178)
 - [全网最细，一文带你弄懂 MCP 的核心原理！](https://juejin.cn/post/7493455615244959794)
 - [浅谈 MCP Inspector：调试与测试 MCP 服务器的利器](https://juejin.cn/post/7483409317565153290)
