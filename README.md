@@ -12,6 +12,7 @@
 - [browsermcp](https://browsermcp.io/)
 
 #### 文章
+- [2025最全Browser Use MCP指南：AI控制浏览器的开源解决方案与API接入全攻略](https://juejin.cn/post/7490391697084547099)
 - [一文秒懂AI核心：Agent、RAG、Function Call与MCP全解析](https://juejin.cn/post/7488188832921649215)
 - [要给大家泼盆冷水了，使用 MCP 绝对不容忽视的一个问题！](https://juejin.cn/post/7498305424639721484)
 - [MCP爆火！了解这些资源玩转MCP](https://juejin.cn/post/7499529550586544178)
