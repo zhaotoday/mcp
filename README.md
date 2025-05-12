@@ -12,6 +12,7 @@
 - [browsermcp](https://browsermcp.io/)
 
 #### 文章
+- [全网精选！14个爆火MCP资源库，让你的AI Agent能力翻倍！](https://juejin.cn/post/7496345825188216872)
 - [前端也需要了解的 mcp 知识](https://juejin.cn/post/7495598591488016394)
 - [🧐什么是 MCP 服务？如何利用 cursor + MCP 快速将现有服务接入大模型？](https://juejin.cn/post/7484801077017296907)
 - [2025最全Browser Use MCP指南：AI控制浏览器的开源解决方案与API接入全攻略](https://juejin.cn/post/7490391697084547099)
