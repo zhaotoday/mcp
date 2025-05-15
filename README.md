@@ -58,6 +58,7 @@
 - [MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
 
 #### 开源
+- [browser-use-mcp-server](https://github.com/co-browser/browser-use-mcp-server)
 - [MCP-SuperAssistant](https://github.com/srbhptl39/MCP-SuperAssistant)
 - [blender-mcp](https://github.com/ahujasid/blender-mcp)
 - [高德地图 MCP Server](https://lbs.amap.com/api/mcp-server/summary)
