@@ -12,6 +12,7 @@
 - [browsermcp](https://browsermcp.io/)
 
 #### 文章
+- [Cursor MCP推荐](https://juejin.cn/post/7494412556946145330)
 - [让 AI 更懂 Ant Design：MCP 协议在前端领域的落地实践](https://juejin.cn/post/7494106899646939173)
 - [全网精选！14个爆火MCP资源库，让你的AI Agent能力翻倍！](https://juejin.cn/post/7496345825188216872)
 - [前端也需要了解的 mcp 知识](https://juejin.cn/post/7495598591488016394)
