@@ -60,6 +60,7 @@
 - [MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
 
 #### 开源
+- [mcp-containers](https://github.com/metorial/mcp-containers)
 - [McpHub.ts](https://github.com/cline/cline/blob/main/src/services/mcp/McpHub.ts)
 - [mcphub](https://github.com/samanhappy/mcphub)
 - [exa-mcp-server](https://github.com/exa-labs/exa-mcp-server)
