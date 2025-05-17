@@ -58,6 +58,7 @@
 - [MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
 
 #### 开源
+- [exa-mcp-server](https://github.com/exa-labs/exa-mcp-server)
 - [browser-use-mcp-server](https://github.com/co-browser/browser-use-mcp-server)
 - [MCP-SuperAssistant](https://github.com/srbhptl39/MCP-SuperAssistant)
 - [blender-mcp](https://github.com/ahujasid/blender-mcp)
