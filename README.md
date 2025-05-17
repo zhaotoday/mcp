@@ -12,6 +12,7 @@
 - [browsermcp](https://browsermcp.io/)
 
 #### 文章
+- [聊聊MCP Client及其实践](https://juejin.cn/post/7497483085232078863)
 - [写给普通人的 MCP 入门指南](https://juejin.cn/post/7488374561177190434)
 - [Cursor MCP推荐](https://juejin.cn/post/7494412556946145330)
 - [让 AI 更懂 Ant Design：MCP 协议在前端领域的落地实践](https://juejin.cn/post/7494106899646939173)
