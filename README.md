@@ -12,6 +12,7 @@
 - [browsermcp](https://browsermcp.io/)
 
 #### 文章
+- [前端 MCP 工具 开发教程](https://juejin.cn/post/7486030501906268199)
 - [一个让DevOps癫狂的项目一键部署数百个MCP服务器](https://blog.csdn.net/y117862654/article/details/147467741)
 - [聊聊MCP Client及其实践](https://juejin.cn/post/7497483085232078863)
 - [写给普通人的 MCP 入门指南](https://juejin.cn/post/7488374561177190434)
