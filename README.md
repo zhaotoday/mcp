@@ -63,6 +63,7 @@
 - [MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
 
 #### 开源
+- [mcp-router](https://github.com/mcp-router/mcp-router)
 - [hyperbrowserai/mcp](https://github.com/hyperbrowserai/mcp)
 - [metatool-app](https://github.com/metatool-ai/metatool-app)
 - [semgrep/mcp](https://github.com/semgrep/mcp)
