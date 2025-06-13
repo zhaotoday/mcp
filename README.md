@@ -7,6 +7,7 @@
 - [composio](https://mcp.composio.dev/)
 - [smithery](https://smithery.ai/)
 - [MCP 广场](https://www.modelscope.cn/mcp)
+- [百度 MCP 广场](https://sai.baidu.com/ai/mcp)
 
 #### 产品
 - [browsermcp](https://browsermcp.io/)
