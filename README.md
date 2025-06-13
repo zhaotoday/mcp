@@ -13,6 +13,7 @@
 - [browsermcp](https://browsermcp.io/)
 
 #### 文章
+- [AI + 高德MCP旅行规划神器：10分钟搞定完美行程！](https://juejin.cn/post/7487219720480702527)
 - [如何开发 MCP 服务？保姆级教程！](https://juejin.cn/post/7490497276738568242)
 - [MCP SDK 快速接入 DeepSeek 并添加工具！万万没想到MCP这么简单好用！](https://juejin.cn/post/7494836622498545715)
 - [前端 MCP 工具 开发教程](https://juejin.cn/post/7486030501906268199)
