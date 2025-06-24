@@ -1,4 +1,5 @@
 #### 网站
+- [playbooks](https://playbooks.com/mcp)
 - [MCP](https://modelcontextprotocol.io/introduction)
 - [MCP Servers](https://mcp.so/)
 - [Awesome MCP Servers](https://mcplab.cc/zh)
