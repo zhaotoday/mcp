@@ -68,6 +68,7 @@
 - [MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
 
 #### 开源
+- [start-mcp-github](https://github.com/devsapp/mcp-servers/tree/main/start-mcp-github/src)
 - [klavis](https://github.com/Klavis-AI/klavis)
 - [mcp-chrome](https://github.com/hangwin/mcp-chrome)
 - [mcp-use-ts](https://github.com/mcp-use/mcp-use-ts)
