@@ -70,6 +70,7 @@
 - [MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
 
 #### 开源
+- [excel-mcp-server](https://github.com/haris-musa/excel-mcp-server)
 - [Office-PowerPoint-MCP-Server](https://github.com/GongRzhe/Office-PowerPoint-MCP-Server)
 - [mcp-servers](https://github.com/devsapp/mcp-servers)
 - [klavis](https://github.com/Klavis-AI/klavis)
