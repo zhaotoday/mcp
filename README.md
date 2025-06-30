@@ -15,6 +15,7 @@
 - [browsermcp](https://browsermcp.io/)
 
 #### 文章
+- [亲测上百款MCP后，我发现这10款才是真正能提升生产力的神器](https://juejin.cn/post/7519711529933275174)
 - [这 7 个神级开源 MCP 项目，让你的 AI 起飞](https://juejin.cn/post/7520438271593496627)
 - [browser-use：AI驱动的浏览器自动化工具使用指南](https://juejin.cn/post/7497029015704403979)
 - [AI + 高德MCP旅行规划神器：10分钟搞定完美行程！](https://juejin.cn/post/7487219720480702527)
