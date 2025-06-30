@@ -15,6 +15,7 @@
 - [browsermcp](https://browsermcp.io/)
 
 #### 文章
+- [这 7 个神级开源 MCP 项目，让你的 AI 起飞](https://juejin.cn/post/7520438271593496627)
 - [browser-use：AI驱动的浏览器自动化工具使用指南](https://juejin.cn/post/7497029015704403979)
 - [AI + 高德MCP旅行规划神器：10分钟搞定完美行程！](https://juejin.cn/post/7487219720480702527)
 - [如何开发 MCP 服务？保姆级教程！](https://juejin.cn/post/7490497276738568242)
