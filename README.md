@@ -16,6 +16,7 @@
 - [browsermcp](https://browsermcp.io/)
 
 #### 文章
+- [MCP极简入门：@modelcontextprotocol/inspector 如何使用](https://juejin.cn/post/7524253314667659300)
 - [【科普】程序员必看，AI时代新协议 MCP 正在连接吞噬一切，20+资源全收录！](https://juejin.cn/post/7478304240122134566)
 - [Typescript入门MCP Server开发](https://juejin.cn/post/7522093523967442996)
 - [亲测上百款MCP后，我发现这10款才是真正能提升生产力的神器](https://juejin.cn/post/7519711529933275174)
