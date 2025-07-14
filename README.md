@@ -76,6 +76,7 @@
 - [MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
 
 #### 开源
+- [xhs-toolkit](https://github.com/aki66938/xhs-toolkit)
 - [RedNote-MCP](https://github.com/iFurySt/RedNote-MCP)
 - [open-webSearch](https://github.com/Aas-ee/open-webSearch)
 - [excel-mcp-server](https://github.com/haris-musa/excel-mcp-server)
