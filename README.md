@@ -16,6 +16,7 @@
 - [browsermcp](https://browsermcp.io/)
 
 #### 文章
+- [AI 编辑器 + MCP 轻松实现设计稿生成前端代码](https://juejin.cn/post/7516817268479950874)
 - [🚀逆天神器来了！MCP Chrome：超越Playwright，让AI接管你的浏览器，我当场震撼！](https://juejin.cn/post/7526419856638066729)
 - [Exa MCP Server - AI 搜索服务中间件](https://blog.csdn.net/lovechris00/article/details/147597459)
 - [MCP极简入门：@modelcontextprotocol/inspector 如何使用](https://juejin.cn/post/7524253314667659300)
