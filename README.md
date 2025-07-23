@@ -16,6 +16,7 @@
 - [browsermcp](https://browsermcp.io/)
 
 #### 文章
+- [推荐一款宝藏MCP Server—mcp-server-chart, 从此再也不发愁绘制图表啦！](https://juejin.cn/post/7504142780526723081)
 - [MCP极简入门：第一个服务器DesktopCommanderMCP](https://juejin.cn/post/7526588109481803785)
 - [🚀🚀🚀MCP SDK 快速接入 DeepSeek 并添加工具！万万没想到MCP这么简单好用！](https://juejin.cn/post/7494836622498545715)
 - [AI 编辑器 + MCP 轻松实现设计稿生成前端代码](https://juejin.cn/post/7516817268479950874)
