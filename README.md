@@ -16,6 +16,7 @@
 - [browsermcp](https://browsermcp.io/)
 
 #### 文章
+- [😎 MCP 从开发到发布全流程教程，看完不踩坑！](https://juejin.cn/post/7488175372611584052)
 - [【快速入门到精通】MCP Typescript SDK核心概念和快速开发你的MCP](https://juejin.cn/post/7517532575008866367)
 - [🚀拒绝试错成本！企业接入MCP协议的避坑清单​](https://juejin.cn/post/7522452035699605550)
 - [推荐一款宝藏MCP Server—mcp-server-chart, 从此再也不发愁绘制图表啦！](https://juejin.cn/post/7504142780526723081)
