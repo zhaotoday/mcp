@@ -16,6 +16,7 @@
 - [browsermcp](https://browsermcp.io/)
 
 #### 文章
+- [AI探索 | 基于 Node.js 开发 MCP 客户端+服务端及优秀项目分享](https://juejin.cn/post/7529199486657708078)
 - [Agent 工具箱：一步步搭建你的第一个 MCP 服务](https://juejin.cn/post/7529666793008381971)
 - [😎 MCP 从开发到发布全流程教程，看完不踩坑！](https://juejin.cn/post/7488175372611584052)
 - [【快速入门到精通】MCP Typescript SDK核心概念和快速开发你的MCP](https://juejin.cn/post/7517532575008866367)
