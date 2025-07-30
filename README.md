@@ -1,4 +1,5 @@
 #### 网站
+- [蓝耘元生代MCP广场](https://mcp.lanyun.net/#/home)
 - [higress](https://higress.ai/)
 - [mcphub](https://mcphub.io/)
 - [playbooks](https://playbooks.com/mcp)
