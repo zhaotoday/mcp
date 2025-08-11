@@ -17,6 +17,7 @@
 - [browsermcp](https://browsermcp.io/)
 
 #### 文章
+- [MCP Server 实战：构建自己的扩展服务](https://juejin.cn/post/7536111911625801767)
 - [MCP第3章：开发案例合集(typescript-sdk + python-sdk)](https://juejin.cn/post/7536111911626342439)
 - [Obsidian MCP 全流程搭建：从插件安装到智能体精准调用](https://juejin.cn/post/7528721862462390282)
 - [AI探索 | 基于 Node.js 开发 MCP 客户端+服务端及优秀项目分享](https://juejin.cn/post/7529199486657708078)
@@ -88,7 +89,6 @@
 - [MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
 
 #### 开源
-- [MCP Server 实战：构建自己的扩展服务](https://juejin.cn/post/7536111911625801767)
 - [waystation-ai/mcp](https://github.com/waystation-ai/mcp)
 - [web-search-mcp](https://github.com/mrkrsl/web-search-mcp)
 - [awesome-remote-mcp-servers](https://github.com/sylviangth/awesome-remote-mcp-servers)
