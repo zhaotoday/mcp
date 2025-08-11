@@ -88,6 +88,7 @@
 - [MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
 
 #### 开源
+- [pluggedin-app](https://github.com/VeriTeknik/pluggedin-app)
 - [tavily-mcp](https://github.com/tavily-ai/tavily-mcp)
 - [f2c-mcp](https://github.com/f2c-ai/f2c-mcp)
 - [DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)
