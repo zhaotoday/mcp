@@ -17,6 +17,7 @@
 - [browsermcp](https://browsermcp.io/)
 
 #### 文章
+- [MCP第3章：开发案例合集(typescript-sdk + python-sdk)](https://juejin.cn/post/7536111911626342439)
 - [Obsidian MCP 全流程搭建：从插件安装到智能体精准调用](https://juejin.cn/post/7528721862462390282)
 - [AI探索 | 基于 Node.js 开发 MCP 客户端+服务端及优秀项目分享](https://juejin.cn/post/7529199486657708078)
 - [Agent 工具箱：一步步搭建你的第一个 MCP 服务](https://juejin.cn/post/7529666793008381971)
