@@ -88,6 +88,7 @@
 - [MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
 
 #### 开源
+- [web-search-mcp](https://github.com/mrkrsl/web-search-mcp)
 - [awesome-remote-mcp-servers](https://github.com/sylviangth/awesome-remote-mcp-servers)
 - [pluggedin-app](https://github.com/VeriTeknik/pluggedin-app)
 - [tavily-mcp](https://github.com/tavily-ai/tavily-mcp)
