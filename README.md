@@ -17,6 +17,7 @@
 - [browsermcp](https://browsermcp.io/)
 
 #### 文章
+- [Node.js构建可用的 MCP 服务器：从入门到实战](https://juejin.cn/post/7538085784290344995)
 - [MCP Server 实战：构建自己的扩展服务](https://juejin.cn/post/7536111911625801767)
 - [MCP第3章：开发案例合集(typescript-sdk + python-sdk)](https://juejin.cn/post/7536111911626342439)
 - [Obsidian MCP 全流程搭建：从插件安装到智能体精准调用](https://juejin.cn/post/7528721862462390282)
