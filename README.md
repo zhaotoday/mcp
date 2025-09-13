@@ -91,6 +91,7 @@
 - [MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
 
 #### 开源
+- [mcp-server-chart](https://github.com/antvis/mcp-server-chart)
 - [waystation-ai/mcp](https://github.com/waystation-ai/mcp)
 - [web-search-mcp](https://github.com/mrkrsl/web-search-mcp)
 - [awesome-remote-mcp-servers](https://github.com/sylviangth/awesome-remote-mcp-servers)
