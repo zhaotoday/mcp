@@ -91,6 +91,7 @@
 - [MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
 
 #### 开源
+- [git-mcp](https://github.com/idosal/git-mcp)
 - [bytebot](https://github.com/bytebot-ai/bytebot)
 - [brightdata-mcp](https://github.com/brightdata/brightdata-mcp)
 - [mcp-server-chart](https://github.com/antvis/mcp-server-chart)
