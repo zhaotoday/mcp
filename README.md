@@ -91,6 +91,7 @@
 - [MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
 
 #### 开源
+- [openmcp](https://openmcp.kirigaya.cn/zh/)
 - [xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp)
 - [git-mcp](https://github.com/idosal/git-mcp)
 - [bytebot](https://github.com/bytebot-ai/bytebot)
