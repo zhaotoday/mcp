@@ -91,6 +91,7 @@
 - [MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
 
 #### 开源
+- [Feishu-MCP](https://github.com/cso1z/Feishu-MCP)
 - [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
 - [openmcp](https://openmcp.kirigaya.cn/zh/)
 - [xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp)
