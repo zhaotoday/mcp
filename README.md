@@ -17,6 +17,7 @@
 - [browsermcp](https://browsermcp.io/)
 
 #### 文章
+- [前端搭建 MCP Client（Web版）+ Server + Agent 实践](https://juejin.cn/post/7488522007764680731)
 - [拓宽AI Coding能力：前端 MCP 实用技巧分享](https://juejin.cn/post/7562896072324218930)
 - [🔥 前段时间火了个SSE，如今MCP为何全都弃了???💧](https://juejin.cn/post/7535277408704299049)
 - [Node.js构建可用的 MCP 服务器：从入门到实战](https://juejin.cn/post/7538085784290344995)
