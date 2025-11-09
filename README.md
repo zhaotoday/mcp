@@ -93,6 +93,7 @@
 - [MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
 
 #### 开源
+- [mcp-ui](https://github.com/idosal/mcp-ui)
 - [N8N2MCP](https://github.com/Super-Chain/N8N2MCP)
 - [Feishu-MCP](https://github.com/cso1z/Feishu-MCP)
 - [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
