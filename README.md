@@ -96,6 +96,7 @@
 
 #### 开源
 - [context7](https://github.com/upstash/context7)
+- [mcp-ui](https://github.com/MCP-UI-Org/mcp-ui)
 - [mcp-ui](https://github.com/idosal/mcp-ui)
 - [N8N2MCP](https://github.com/Super-Chain/N8N2MCP)
 - [Feishu-MCP](https://github.com/cso1z/Feishu-MCP)
