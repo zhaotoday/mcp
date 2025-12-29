@@ -95,6 +95,7 @@
 - [MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
 
 #### 开源
+- [fastmcp-boilerplate](https://github.com/punkpeye/fastmcp-boilerplate)
 - [context7](https://github.com/upstash/context7)
 - [mcp-ui](https://github.com/MCP-UI-Org/mcp-ui)
 - [mcp-ui](https://github.com/idosal/mcp-ui)
