@@ -18,6 +18,7 @@
 - [browsermcp](https://browsermcp.io/)
 
 #### 文章
+- [Figma 推出官方 MCP，真正做到了所见即所得](https://juejin.cn/post/7514378736147021836)
 - [别搞混了！MCP 和 Agent Skill 到底有什么区别？](https://juejin.cn/post/7584057497205817387)
 - [最新MCP规范解读，看这篇就够了！](https://juejin.cn/post/7571456639477006346)
 - [前端搭建 MCP Client（Web版）+ Server + Agent 实践](https://juejin.cn/post/7488522007764680731)
