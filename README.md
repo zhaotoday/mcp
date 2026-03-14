@@ -97,6 +97,7 @@
 - [MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
 
 #### 开源
+- [mastra.ai](https://mastra.ai/docs)
 - [mcp-hub](https://github.com/ravitemer/mcp-hub)
 - [human-mcp](https://github.com/mrgoonie/human-mcp)
 - [mcphost](https://github.com/mark3labs/mcphost)
