@@ -97,6 +97,7 @@
 - [MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
 
 #### 开源
+- [spec-workflow-mcp](https://github.com/Pimzino/spec-workflow-mcp)
 - [mcp-client](https://github.com/punkpeye/mcp-client)
 - [witsy](https://github.com/nbonamy/witsy)
 - [vercel/ai](https://github.com/vercel/ai)
