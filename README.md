@@ -97,6 +97,7 @@
 - [MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
 
 #### 开源
+- [fetch-mcp](https://github.com/zcaceres/fetch-mcp)
 - [MCP-Nest](https://github.com/rekog-labs/MCP-Nest)
 - [xmcp](https://github.com/basementstudio/xmcp)
 - [mcporter](https://github.com/steipete/mcporter)
