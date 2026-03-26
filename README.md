@@ -97,6 +97,7 @@
 - [MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
 
 #### 开源
+- [js-reverse-mcp](https://github.com/zhizhuodemao/js-reverse-mcp)
 - [drawio-mcp-server](https://github.com/lgazo/drawio-mcp-server)
 - [brave-search-mcp-server](https://github.com/brave/brave-search-mcp-server)
 - [fetch-mcp](https://github.com/zcaceres/fetch-mcp)
