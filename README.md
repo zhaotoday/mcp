@@ -18,6 +18,7 @@
 - [browsermcp](https://browsermcp.io/)
 
 #### 文章
+- [MCP-UI最佳实践：从零构建生产级AI代理界面的完整流程](https://blog.csdn.net/gitblog_00300/article/details/154673728)
 - [Figma 推出官方 MCP，真正做到了所见即所得](https://juejin.cn/post/7514378736147021836)
 - [别搞混了！MCP 和 Agent Skill 到底有什么区别？](https://juejin.cn/post/7584057497205817387)
 - [最新MCP规范解读，看这篇就够了！](https://juejin.cn/post/7571456639477006346)
