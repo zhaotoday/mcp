@@ -98,6 +98,7 @@
 - [MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
 
 #### 开源
+- [camofox-mcp](https://github.com/redf0x1/camofox-mcp)
 - [mcp-handler](https://github.com/vercel/mcp-handler)
 - [js-reverse-mcp](https://github.com/zhizhuodemao/js-reverse-mcp)
 - [drawio-mcp-server](https://github.com/lgazo/drawio-mcp-server)
