@@ -98,6 +98,7 @@
 - [MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
 
 #### 开源
+- [n8n-mcp](https://github.com/czlonkowski/n8n-mcp)
 - [camoufox-reverse-mcp](https://github.com/WhiteNightShadow/camoufox-reverse-mcp)
 - [camofox-mcp](https://github.com/redf0x1/camofox-mcp)
 - [mcp-handler](https://github.com/vercel/mcp-handler)
