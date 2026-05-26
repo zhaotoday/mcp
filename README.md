@@ -98,6 +98,7 @@
 - [MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
 
 #### 开源
+- [mcp-remote](https://github.com/geelen/mcp-remote)
 - [mcp-use](https://www.npmjs.com/package/mcp-use)
 - [stealth-browser-mcp](https://github.com/vibheksoni/stealth-browser-mcp)
 - [n8n-mcp](https://github.com/czlonkowski/n8n-mcp)
