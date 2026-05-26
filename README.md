@@ -99,6 +99,7 @@
 - [MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
 
 #### 开源
+- [JSReverser-MCP](https://github.com/NoOne-hub/JSReverser-MCP)
 - [mcp-remote](https://github.com/geelen/mcp-remote)
 - [mcp-use](https://www.npmjs.com/package/mcp-use)
 - [stealth-browser-mcp](https://github.com/vibheksoni/stealth-browser-mcp)
