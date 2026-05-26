@@ -99,6 +99,7 @@
 - [MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
 
 #### 开源
+- [antd-components-mcp](https://github.com/zhixiaoqiang/antd-components-mcp)
 - [JSReverser-MCP](https://github.com/NoOne-hub/JSReverser-MCP)
 - [mcp-remote](https://github.com/geelen/mcp-remote)
 - [mcp-use](https://www.npmjs.com/package/mcp-use)
