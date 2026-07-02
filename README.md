@@ -100,6 +100,7 @@
 - [MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
 
 #### 开源
+- [awesome-mcp-best-practices](https://github.com/lirantal/awesome-mcp-best-practices)
 - [shadcn-ui-mcp-server](https://github.com/Jpisnice/shadcn-ui-mcp-server)
 - [antd-components-mcp](https://github.com/zhixiaoqiang/antd-components-mcp)
 - [JSReverser-MCP](https://github.com/NoOne-hub/JSReverser-MCP)
